@@ -129,7 +129,7 @@ span{
     font-weight: 700;
 }
 .hero-sec{
-    background-image: url(/images/hero_image.jpg);
+    background-image: url(./images/hero_image.jpg);
     height: 350px;
     background-size: cover;
     display: flex;
